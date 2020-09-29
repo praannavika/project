@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: kannagap
+Build-Jdk: 11.0.8
+Implementation-Title: login
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.sapient
+Implementation-URL: https://spring.io/projects/spring-boot/login
+Created-By: Maven Integration for Eclipse
+
